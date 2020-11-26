@@ -1,0 +1,13 @@
+D:\Escolar\SENAI\GitHub\Backend\ListaSenai\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.exe
+D:\Escolar\SENAI\GitHub\Backend\ListaSenai\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.deps.json
+D:\Escolar\SENAI\GitHub\Backend\ListaSenai\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.runtimeconfig.json
+D:\Escolar\SENAI\GitHub\Backend\ListaSenai\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.runtimeconfig.dev.json
+D:\Escolar\SENAI\GitHub\Backend\ListaSenai\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.dll
+D:\Escolar\SENAI\GitHub\Backend\ListaSenai\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.pdb
+D:\Escolar\SENAI\GitHub\Backend\ListaSenai\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.csprojAssemblyReference.cache
+D:\Escolar\SENAI\GitHub\Backend\ListaSenai\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.AssemblyInfoInputs.cache
+D:\Escolar\SENAI\GitHub\Backend\ListaSenai\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.AssemblyInfo.cs
+D:\Escolar\SENAI\GitHub\Backend\ListaSenai\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.csproj.CoreCompileInputs.cache
+D:\Escolar\SENAI\GitHub\Backend\ListaSenai\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.dll
+D:\Escolar\SENAI\GitHub\Backend\ListaSenai\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.pdb
+D:\Escolar\SENAI\GitHub\Backend\ListaSenai\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.genruntimeconfig.cache

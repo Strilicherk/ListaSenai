@@ -1,0 +1,4 @@
+D:\Escolar\SENAI\GitHub\Backend\ListaSenai\Exercício2\obj\Debug\netcoreapp3.1\Exercício2.csprojAssemblyReference.cache
+D:\Escolar\SENAI\GitHub\Backend\ListaSenai\Exercício2\obj\Debug\netcoreapp3.1\Exercício2.AssemblyInfoInputs.cache
+D:\Escolar\SENAI\GitHub\Backend\ListaSenai\Exercício2\obj\Debug\netcoreapp3.1\Exercício2.AssemblyInfo.cs
+D:\Escolar\SENAI\GitHub\Backend\ListaSenai\Exercício2\obj\Debug\netcoreapp3.1\Exercício2.csproj.CoreCompileInputs.cache
